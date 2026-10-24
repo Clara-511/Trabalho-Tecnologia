@@ -8,7 +8,6 @@ dados = pd.read_csv(
 
 print("Informações gerais do conjunto de dados: ", dados.info)
 
-
 print("\nPrimeiras 10 linhas:", dados.head(10))
 
 print("\nÚltimas 10 linhas:", dados.tail(10))
